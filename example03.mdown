@@ -1,0 +1,13 @@
+---
+title: Example .mdown
+author: Ordoer Team
+date: 2026-04-01
+tags: [mdown]
+status: published
+---
+
+# Example .mdown
+
+This is a file with the `.mdown` extension.
+
+Please verify that you can view the contents of the file using the “Ordoer” app.

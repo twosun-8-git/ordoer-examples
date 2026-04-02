@@ -1,0 +1,13 @@
+---
+title: Example .mkdn
+author: Ordoer Team
+date: 2026-04-01
+tags: [mkdn]
+status: published
+---
+
+# Example .mkdn
+
+This is a file with the `.mkdn` extension.
+
+Please verify that you can view the contents of the file using the “Ordoer” app.
