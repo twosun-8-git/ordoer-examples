@@ -1,12 +1,12 @@
 ---
-title: Ordoer Feature Guide
+title: Ordoer Feature Guide by Remote
 author: Ordoer Team
 date: 2026-03-24
 tags: [markdown, viewer, productivity]
 status: published
 ---
 
-# Ordoer Feature Guide
+# Ordoer Feature Guide by Remote
 
 Ordoer is a macOS Markdown viewer built for reading — not editing.
 Navigate, search, and explore your documents with clarity.
